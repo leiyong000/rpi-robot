@@ -3,6 +3,6 @@ flask
 flask-socketio
 onnx-tf==1.3.0
 onnx==1.6.0
-opencv-python==4.1.1.26
+opencv-python==4.4.0.40
 simple_pid
 tensorflow==1.15.2
